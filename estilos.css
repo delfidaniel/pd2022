@@ -10,7 +10,7 @@
 
 .btn:hover {color: white; border-color: white; background-color: black;}
 
-.body { font-family: 'Roboto Condensed', sans-serif; background-color: white;}
+body { font-family: 'Roboto Condensed', sans-serif; background-color: white;}
 
 .index { background-color: #4f7330; width: 50%; margin-right: auto; margin-left: auto; border-radius: 10px; }
 
@@ -33,6 +33,14 @@
 .botonindex:hover { width: 30%; border-radius: 8px; border: 3px solid white; background-color: black; margin-right: auto; margin-left: auto; color: white;  }
 
 .botonindex a:hover { text-decoration: none; color: white; }
+
+.botonhistoria  { width: 40%; border-radius: 8px; background-color: white; margin-right: auto; margin-left: auto; }
+
+.botonhistoria a { text-decoration: none; color: black; }
+
+..botonhistoria:hover { width: 40%; border-radius: 8px; background-color: black; margin-right: auto; margin-left: auto; color: white;  }
+
+..botonhistoria a:hover { text-decoration: none; color: white; }
 
 .card2 { margin-left: auto; margin-right: auto; }
 
